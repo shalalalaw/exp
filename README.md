@@ -6,7 +6,7 @@ Shalalalaw is a technology attorney with an education in computer science specif
 If you are a lawyer and computer scientist, and you think of yourself as a creative type, then this is the right place for you. If you are either more firmly a lawyer or computer scientist but have a passion for the instersection between the two fields, then we would love to have you aboard. This is an experiment, and I'm excited to see what kind of monster we can Frankenstein together.
 
 # The wiki
-<The wiki>(https://github.com/shalalalaw/exp/wiki) is where evolutions in thought processes and decisions will be documented.
+<a href="https://github.com/shalalalaw/exp/wiki">The wiki</a> is where evolutions in thought processes and decisions will be documented.
 
 # License
 This project will blend legal and technical expertise in new and unusual ways. As such, you should never, under any circumstances, ever - under any circumstances - take any of the content under this license as legal, spiritual, nutritional, or any other kind of advice. The content presented here is experimental in nature and should not be used in production. 
