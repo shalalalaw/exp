@@ -8,6 +8,9 @@ If you are a lawyer and computer scientist, and you think of yourself as a creat
 # The wiki
 <a href="https://github.com/shalalalaw/exp/wiki">The wiki</a> is where evolutions in thought processes and decisions will be documented.
 
+# The project board
+<a href="https://github.com/users/shalalalaw/projects/1">The project board</a> is where you can see a list of priorities for the project.
+
 # License
 This project will blend legal and technical expertise in new and unusual ways. As such, you should never, under any circumstances, ever - under any circumstances - take any of the content under this license as legal, spiritual, nutritional, or any other kind of advice. The content presented here is experimental in nature and should not be used in production. 
 
