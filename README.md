@@ -1,5 +1,10 @@
 # exp
 Bold Creative Law |&amp;&amp;| Tech Exp.
+
+Shalalalaw is a technology attorney with an education in computer science specifically so he could be the tech attorney that understood how it all works. He loves how it all works, and it constantly devising new ways to disrupt the legal  field. Having gone through traditional iterations of projects, he figured why not crank things up a bit and bring things to life in a web3 context. 
+
+If you are a lawyer and computer scientist, and tou think of yourself as a creative type, then this is the right place for you. If you are either more firmly a lawyer or computer scientist but have a passion for the instersection between them, then we would love to have you aboard. This is an experiment, and I'm excited to see what kind of monster we can Frankenstein together.
+
 # License
 This project will blend legal and technical expertise in new and unusual ways. As such, you should never, under any circumstances, ever take any of the content under this license as legal, spiritual, or any other kind of advice. The content presented here is experimental in nature and should not be used in production. 
 
