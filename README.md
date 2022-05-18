@@ -6,7 +6,7 @@ Shalalalaw is a technology attorney with an education in computer science specif
 If you are a lawyer and computer scientist, and you think of yourself as a creative type, then this is the right place for you. If you are either more firmly a lawyer or computer scientist but have a passion for the instersection between the two fields, then we would love to have you aboard. This is an experiment, and I'm excited to see what kind of monster we can Frankenstein together.
 
 # License
-This project will blend legal and technical expertise in new and unusual ways. As such, you should never, under any circumstances, ever take any of the content under this license as legal, spiritual, or any other kind of advice. The content presented here is experimental in nature and should not be used in production. 
+This project will blend legal and technical expertise in new and unusual ways. As such, you should never, under any circumstances, ever - under any circumstances - take any of the content under this license as legal, spiritual, nutritional, or any other kind of advice. The content presented here is experimental in nature and should not be used in production. 
 
 All rights are reserved by the author of the project. The author of the project is a yet to be formed DAO, of an unknown entity type, being promoted by Alex Shahrestani.
 
