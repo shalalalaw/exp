@@ -1,4 +1,4 @@
-# exp
+# Exp
 Bold Creative Law |&amp;&amp;| Tech Exp.
 
 Shalalalaw is a technology attorney with an education in computer science specifically so he could be the tech attorney that understood how it all works. He loves how it all works, and is constantly devising new ways to disrupt the legal  field. Having gone through traditional iterations of projects, he figured why not crank things up a bit and bring things to life in a web3 context. 
